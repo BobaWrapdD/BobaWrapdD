@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BobaWrapd</h1>
 <h3 align="center">A passionate frontend Indie Game Developer</h3>
 
-- 🔭 I’m currently working on **The PSX Horor game**
+- 🔭 I’m currently working on **Work Home // Indie Developer**
 
 - 🌱 I’m currently learning **Animation, Coding, How the game works**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bobawrapd7@gmail.com**
 
-- ⚡ Fun fact **I think im human**
+- ⚡ Wishlist **Making my dream game**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
