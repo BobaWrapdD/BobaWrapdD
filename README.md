@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./https://gyazo.com/52a6840efc17769d25fadc3895ec7fe1" width="200">
+  <img src="./![3f27b6aa2577049c3469c728295c17e5.jpg](https://github.com/user-attachments/assets/06109611-beea-40b7-afe1-8b5c3fb8f788)
+
+" width="200">
 </p>
 
 <h1 align="center">Hi 👋, I'm BobaWrapd</h1>
