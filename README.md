@@ -1,3 +1,5 @@
+![About me](https://gyazo.com/52a6840efc17769d25fadc3895ec7fe1)
+
 <h1 align="center">Hi 👋, I'm BobaWrapd</h1>
 <h3 align="center">A passionate frontend Indie Game Developer</h3>
 
