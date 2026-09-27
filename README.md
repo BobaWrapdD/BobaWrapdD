@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Animation, Coding, How the game works**
 
-- 👯 I’m looking to collaborate on **Mid-Scale Game**
+- 🤤 I am developing  **Mid-Scale Game**
 
 - 🤝 I’m looking for help with **Animation // pixel art asset**
 
-- 💬 Ask me about **Script, Code, Asset**
+- 💬 Ask me about **Script, Code, Asset, plugin**
 
 - 📫 How to reach me **bobawrapd7@gmail.com**
 
